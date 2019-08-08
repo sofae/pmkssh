@@ -5,5 +5,5 @@ windows桌面软件
 用于批量远程管理服务器  
 基于paramiko使用python开发  
 
-程序打包
-pyinstaller -F pmkssh.py
+程序打包  
+pyinstaller -F pmkssh.py  
