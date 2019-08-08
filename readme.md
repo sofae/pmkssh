@@ -7,3 +7,6 @@ windows桌面软件
 
 程序打包  
 pyinstaller -F pmkssh.py  
+
+
+![Image text](https://raw.githubusercontent.com/sofae/pmkssh/master/pmkssh_screenshot.png)  
