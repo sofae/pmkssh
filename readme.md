@@ -1,4 +1,4 @@
-pmkssh
+PMKSSH
 
 windows桌面软件  
 以轻量化为初衷的远程管理工具  
